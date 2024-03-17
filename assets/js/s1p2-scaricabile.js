@@ -12,14 +12,24 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log(`ESERCIZIO 1\n`);
+console.log(`ESERCIZIO 1\n
+In JavaScript ci sono diversi datatype che servono ad indicare il nostro contenitore cosa contiene. Abbiamo ad esempio:
+- string che viene usato per indicare che nel contenitore c'è del testo;
+- number che viene usato per indicare che nel contenitore ci sono dei numeri;
+- boolean che viene usato per indicare il contenitore mi serve a stabilire se uma condizione è vera o falsa;
+- bigint che viene usato per indicare che nel contenitore ci sono dei numeri grandissimissimi che non rientrano nel range del tipo number;
+- null che viene usato per indicare che il contenitore è vuoto per il momento;
+- undefined che viene usato per indicare che il contenitore è vuoto perchè non è stato specificato cosa contiene.
+`);
 document.write(`ESERCIZIO 1<br>`);
 /* ESERCIZIO 2
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log(`ESERCIZIO 2\n`);
+console.log(`ESERCIZIO 2\n
+Un oggetto è un'entità che raccoglie dentro di sé diverse variabili sotto forma di coppia chiave-valore.
+`);
 document.write(`<br>ESERCIZIO 2<br>`);
 /* ESERCIZIO 3
  Scriti il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
