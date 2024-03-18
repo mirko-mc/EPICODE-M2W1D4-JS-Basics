@@ -13,15 +13,22 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 console.log(`ESERCIZIO 1\n
-In JavaScript ci sono diversi datatype che servono ad indicare il nostro contenitore cosa contiene. Abbiamo ad esempio:
-- string che viene usato per indicare che nel contenitore c'è del testo;
-- number che viene usato per indicare che nel contenitore ci sono dei numeri;
-- boolean che viene usato per indicare il contenitore mi serve a stabilire se uma condizione è vera o falsa;
-- bigint che viene usato per indicare che nel contenitore ci sono dei numeri grandissimissimi che non rientrano nel range del tipo number;
-- null che viene usato per indicare che il contenitore è vuoto per il momento;
-- undefined che viene usato per indicare che il contenitore è vuoto perchè non è stato specificato cosa contiene.
+In JavaScript ci sono diversi datatype che servono ad indicare il nostro contenitore cosa contiene. Abbiamo ad esempio:\n
+- string che viene usato per indicare che nel contenitore c'è del testo;\n
+- number che viene usato per indicare che nel contenitore ci sono dei numeri;\n
+- boolean che viene usato per indicare il contenitore mi serve a stabilire se uma condizione è vera o falsa;\n
+- bigint che viene usato per indicare che nel contenitore ci sono dei numeri grandissimissimi che non rientrano nel range del tipo number;\n
+- null che viene usato per indicare che il contenitore è vuoto per il momento;\n
+- undefined che viene usato per indicare che il contenitore è vuoto perchè non è stato specificato cosa contiene.\n
 `);
-document.write(`ESERCIZIO 1<br>`);
+document.write(`ESERCIZIO 1<br>
+In JavaScript ci sono diversi datatype che servono ad indicare il nostro contenitore cosa contiene. Abbiamo ad esempio:<br>
+- string che viene usato per indicare che nel contenitore c'è del testo;<br>
+- number che viene usato per indicare che nel contenitore ci sono dei numeri;<br>
+- boolean che viene usato per indicare il contenitore mi serve a stabilire se uma condizione è vera o falsa;<br>
+- bigint che viene usato per indicare che nel contenitore ci sono dei numeri grandissimissimi che non rientrano nel range del tipo number;<br>
+- null che viene usato per indicare che il contenitore è vuoto per il momento;<br>
+- undefined che viene usato per indicare che il contenitore è vuoto perchè non è stato specificato cosa contiene.<br>`);
 /* ESERCIZIO 2
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
 */
